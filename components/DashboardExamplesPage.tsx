@@ -1,0 +1,1 @@
+// REMOVED - This was replaced by SimpleInsightPage.tsx

@@ -1,0 +1,1 @@
+// REMOVED - Using ComponentThumbnails.tsx instead

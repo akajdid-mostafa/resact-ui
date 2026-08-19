@@ -1,0 +1,28 @@
+// This is a temporary file to track files for deletion
+const filesToDelete = [
+  '/App_tabs_insert.js',
+  '/SecurityAlertExample.tsx',
+  '/add_messaging_direct.js', 
+  '/add_messaging_simple.js',
+  '/add_messaging_to_app.js',
+  '/batch_fix_icons.js',
+  '/breadcrumbs_fixed.tsx',
+  '/fix_all_copy_handlers.js',
+  '/fix_buttons_page_copy.js',
+  '/fix_codeblocks.py',
+  '/fix_codeblocks_simple.js',
+  '/fix_icon_imports.py',
+  '/fix_inputpage_codeblocks.js',
+  '/fix_messaging_final.js',
+  '/fix_messaging_routing.js',
+  '/fix_template_literals.js',
+  '/replace_headers.js',
+  '/update_all_headers.js',
+  '/update_all_icon_mappings.py',
+  '/update_buttons_copy.js',
+  '/update_codeblocks.py',
+  '/update_corner_rounding.js',
+  '/update_logo_imports.py',
+  '/update_systemcolors_codeblocks.js',
+  '/update_thumbnails.js'
+];
