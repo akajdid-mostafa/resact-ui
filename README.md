@@ -683,7 +683,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Created with ❤️ by Mostafa Akajdid**
 
-- **Portfolio**: [makajdid.vercel.app](https://akajdidm.vercel.app/)
+- **Portfolio**: [akajdidm.vercel.app](https://akajdidm.vercel.app/)
 - **LinkedIn**: [Mostafa Akajdid](https://linkedin.com/in/mostafa-akajdid)
 - **GitHub**: [akajdid-mostafa](https://github.com/akajdid-mostafa)
 
