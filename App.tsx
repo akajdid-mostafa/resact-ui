@@ -1529,24 +1529,24 @@ export default function App() {
               <div className="flex items-center justify-between">
                 <div className="flex items-center gap-2">
                   <p className="text-sm" style={{ color: 'var(--color-text-tertiary)' }}>
-                    Created with Love by Alhasan
+                    Created with Love by Mostafa Akajdid
                   </p>
                   <div className="flex items-center gap-2 ml-2">
                     <a 
-                      href="https://www.linkedin.com/in/alhasanux/" 
+                      href="https://linkedin.com/in/mostafa-akajdid" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="p-1.5 hover:bg-brown-100 rounded-lg transition-colors duration-200"
-                      aria-label="Visit Alhasan's LinkedIn profile"
+                      aria-label="Visit Mostafa Akajdid's LinkedIn profile"
                     >
                       <Linkedin className="w-4 h-4" style={{ color: 'var(--color-text-tertiary)' }} />
                     </a>
                     <a 
-                      href="https://x.com/sir_hsn" 
+                      href="https://github.com/akajdid-mostafa" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="p-1.5 hover:bg-brown-100 rounded-lg transition-colors duration-200"
-                      aria-label="Visit Alhasan's X profile"
+                      aria-label="Visit Mostafa Akajdid's GitHub profile"
                     >
                       <Twitter className="w-4 h-4" style={{ color: 'var(--color-text-tertiary)' }} />
                     </a>

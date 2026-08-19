@@ -681,10 +681,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-**Created with ❤️ by Alhasan**
+**Created with ❤️ by Mostafa Akajdid**
 
-- **LinkedIn**: [Alhasan UX](https://www.linkedin.com/in/alhasanux/)
-- **Twitter**: [@sir_hsn](https://x.com/sir_hsn)
+- **Portfolio**: [makajdid.vercel.app](https://makajdid.vercel.app/)
+- **LinkedIn**: [Mostafa Akajdid](https://linkedin.com/in/mostafa-akajdid)
+- **GitHub**: [akajdid-mostafa](https://github.com/akajdid-mostafa)
 
 ## 🙏 Acknowledgments
 
